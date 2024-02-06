@@ -1,0 +1,12 @@
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/lib/assets/dice_background1.jpg
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/lib%5Cassets%5Cdice_background1.jpg
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

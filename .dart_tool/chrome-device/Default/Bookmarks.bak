@@ -1,0 +1,110 @@
+{
+   "checksum": "48f283071415dea1e9c5f8a69f296703",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "bfbe9e66-aedd-488b-bcfd-570a838ff3b1",
+            "id": "18",
+            "name": "Paladins: Champions of the Realm",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.paladins.com/#community"
+         }, {
+            "date_added": "13341101822918674",
+            "date_last_used": "0",
+            "guid": "7f1d5c16-c4bd-41c2-bef8-fa04edc22f45",
+            "id": "9",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13341101822918538",
+            "date_last_used": "0",
+            "guid": "eb5a6e21-61f4-4bba-a847-57a44ffaf5f1",
+            "id": "8",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13341101822917547",
+            "date_last_used": "0",
+            "guid": "98915cdd-31e7-4598-8c1d-bcf760961575",
+            "id": "7",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829"
+         } ],
+         "date_added": "13341101822700953",
+         "date_last_used": "0",
+         "date_modified": "13341299120531914",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13324918546006061",
+            "date_last_used": "0",
+            "date_modified": "13324918546006061",
+            "guid": "772c7127-4295-4fd5-8384-3b407da08b58",
+            "id": "15",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13324918546006233",
+               "date_last_used": "0",
+               "date_modified": "13324918546006233",
+               "guid": "d483950b-e4fe-41f4-9b22-f072ac9329cf",
+               "id": "17",
+               "name": "Savitribai Phule Pune University, Online Result",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13324918546006192",
+            "date_last_used": "0",
+            "date_modified": "13324918546006192",
+            "guid": "b6e0695f-2cb9-42ce-b59e-116ed3db0d87",
+            "id": "16",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13341101822700955",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341101822700957",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCPzVrBKLAQAAEgAgASoYdWFjcHJidFdDZ2NGRzQ4OHkrSUVUZz09oAYMEqcBCBISogEKHDIyWTltUnVqa0dkSDdKTHlGZXZXOW1oOFM2Yz0SJGJmYmU5ZTY2LWFlZGQtNDg4Yi1iY2ZkLTU3MGE4MzhmZjNiMRgAIAAoADCd/MuS9DA4gv3LkvQwQIL9y5L0MEocZWNJajY3SkttNUErT09IN0hsUFJoMkxyM2lnPVoeIhxYWGRpWFFINURqVXhpRnNBd0lWUFNLRm50bG89ZQAAAAASpwEIERKiAQocaUhGN29hRllCTGtQS3JOVnA4aVczVCthTDVBPRIkZDQ4Mzk1MGItZTRmZS00MWY0LTliMjItZjA3MmFjOTMyOWNmGAAgACgAMKD8y5L0MDjG/cuS9DBAxv3LkvQwShxhQ3lheGp1MVpBVWt5SjBPZ3daRUIyenZWOG89Wh4iHFFCblZNVHloeW1YVVdoSVdNRXhudlh5L2hCQT1lAAAAABKnAQgQEqIBChxhd05xMEVYWjV3LzZUYVJwdGpNd3hqN2NKZm89EiRiNmUwNjk1Zi0yY2I5LTQyY2UtYjU5ZS0xMTZlZDNkYjBkODcYACAAKAAwn/zLkvQwOK/9y5L0MECv/cuS9DBKHExjTTVFUW4xRjZSRjFKOFhQQlpUTnlsNGp2cz1aHiIcQjVPMVVSRk5UWlFuck1Md3FkWTFXNVpRSzU0PWUAAAAAEqcBCA8SogEKHEFXVkMvN0FqZ0tvdllDSXZYcW1vdjlUNjdHUT0SJDc3MmM3MTI3LTQyOTUtNGZkNS04Mzg0LTNiNDA3ZGEwOGI1OBgAIAAoADCe/MuS9DA4mf3LkvQwQJn9y5L0MEoccGxIVVdxTUlqNUh2ZkRUcUp1dUdjL1V2N1F3PVoeIhwvK3k0ZUN3ZUZyeStOam9GRlpjcG8vbWxDLzA9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYTlmMTVlMjAtNGY2Zi01ZjhmLThjZjktZGE0YWZmMjdlZjE0GAAgACgAMIGjsfjlLzjJ+a2GhzBAyfmthocwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQxZDBhMGI0Zi1mZTVmLTVlZmItYTViMy01OWE1MzNmYTdmZjAYACAAKAAwgaOx+OUvOOv4rYaHMEDr+K2GhzBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGI4YzgyZDQyLWYyOGQtNTFiMC05MGMxLTEyNzMxYmM3MDZjORgAIAAoADCBo7H45S846PmthocwQOj5rYaHMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

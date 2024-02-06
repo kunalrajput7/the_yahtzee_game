@@ -1,0 +1,10 @@
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/CMakeFiles/mp2.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/kunal/github-classroom/cs442app/mp2-kunalrajputcr7/build/windows/runner/CMakeFiles/ALL_BUILD.dir
